@@ -12,3 +12,7 @@ body {
   display: block;
   margin-bottom: 20px;
 }
+
+.inputsWalletForm {
+  margin-left: 20px;
+}
