@@ -61,6 +61,7 @@ class WalletForm extends Component {
           <option value="Transporte">Transporte</option>
           <option value="Saúde">Saúde</option>
         </select>
+        <button type="button">Adicionar despesa</button>
       </>
     );
   }
